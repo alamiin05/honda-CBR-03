@@ -1,0 +1,42 @@
+/* font poppins  */
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+/* body style */
+body{
+    margin: 0;
+    
+}
+
+/* ----------------------------- header style start ----------------------  */
+.bg-color{
+    background-color: hsl(197, 37%, 24%);
+    max-width: 100%;
+}
+h1{
+    font-size: 48px;
+    font-weight: 700;
+}
+.btn-color{
+    background-color: #E76F51;
+}
+/* ------------- Featued Bikes 2021  style ---------*/
+
+.text-color{
+color: #E76F51; 
+}
+.gray-filter{
+    filter: grayscale(100%);
+}
+.size{
+   width: 288px;
+    height: 243px;
+}
+/* --------------------------------
+happy client says style 
+-----------------------------------------*/
+.cards{
+    width: 300px;
+height: 478.01px;
+}
+.icon-color  {
+    color: #E76F51;
+}
